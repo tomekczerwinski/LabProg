@@ -18,6 +18,6 @@ int main()
     scanf("%i",&b);
     funk(a,b, &q, &r);
 
-    printf("Iloraz = %i \nReszta = %i", q, r);
+    printf("Iloraz = %i \nReszta = %i\n", q, r);
     return 0;
 }
